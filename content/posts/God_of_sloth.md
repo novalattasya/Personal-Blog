@@ -2,7 +2,7 @@
 title: "Aergia, the Goddess of Sloth"
 date: 2025-04-07
 draft: false
-author: Nopal
+author: 5nopal
 cover: https://i.pinimg.com/736x/62/9e/f7/629ef73eb0a6782be3de0388977b77db.jpg
 categories:
   - blog
