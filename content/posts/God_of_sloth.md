@@ -4,6 +4,7 @@ date: 2025-04-07
 draft: false
 author: 5nopal
 cover: https://i.pinimg.com/736x/62/9e/f7/629ef73eb0a6782be3de0388977b77db.jpg
+images: https://i.pinimg.com/736x/62/9e/f7/629ef73eb0a6782be3de0388977b77db.jpg
 categories:
   - blog
 tags:
