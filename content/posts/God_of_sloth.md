@@ -11,7 +11,7 @@ tags:
   - reminder
 ---
 
-# Keheningan yang Memanggil Namamu
+# Pembuka: Keheningan yang Memanggil Namamu
 Ada sebuah keheningan yang berbeda. Bukan damai, bukan pula kosong. Ia berat, lengket seperti kabut di pagi buta, menarik selimut lebih erat ke dagu meski mentari telah lama memanggil. Ia berbisik di sela-sela deru jam dinding, merayu jemari untuk diam di atas papan ketik, membiarkan layar tetap gelap. Keheningan ini punya nama, nama kuno yang jarang terucap namun denyutnya terasa di nadi setiap insan yang lelah: Aergia.
 Dia bukan sekadar dewi dari dongeng usang. Dia adalah bayangan yang menari di sudut mata saat kau paling rapuh. Dia adalah beban tak kasat mata yang membuat langkah terasa berat menuju meja kerja. Dia adalah janji palsu akan rehat yang tak pernah benar-benar memulihkan, hanya menenggelamkan lebih dalam. Malam ini, atau mungkin pagi ini saat kau membaca tulisan ini, mari kita tatap balik ke dalam keheningan itu. Jangan berpaling. Aku di sini bersamamu, merasakan tarikan yang sama. Apakah kau juga merasakannya, bisikan Aergia yang memintamu untuk… menyerah saja?
 Gema dari Palung Jiwa: Mengapa Bayangan Ini Begitu Kuat?
