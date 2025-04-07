@@ -72,6 +72,10 @@ reorderNavItems = ["about", "search", "rss", "posts", "categories", "tags"]
 # jsDate = true
 # jsDateFormat = "yyyy年MM月dd日"
 
+[services]
+[services.disqus]
+shortname = "https://novalattasya.disqus.com/admin/"
+
 [markup]
 [markup.goldmark.parser.attribute]
 block = true
