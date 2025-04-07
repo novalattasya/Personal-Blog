@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>https://novalattasya.my.id/posts/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo</generator>
+    <language>id</language>
+    <lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://novalattasya.my.id/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aergia, the Goddess of Sloth</title>
+      <link>https://novalattasya.my.id/posts/god_of_sloth/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://novalattasya.my.id/posts/god_of_sloth/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae justo sapien. Sed tincidunt molestie porttitor. Pellentesque laoreet luctus diam, at laoreet quam scelerisque id. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare finibus tortor at tristique. Praesent viverra, est eget volutpat euismod, diam neque gravida leo, sed pellentesque est quam sit amet odio. Pellentesque fermentum id tellus eget hendrerit. Proin malesuada lectus a mi fringilla fringilla. Ut vitae orci in nunc consectetur tincidunt in tincidunt risus.</description>
+    </item>
+  </channel>
+</rss>
