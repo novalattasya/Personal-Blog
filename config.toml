@@ -1,0 +1,73 @@
+baseurl = "https://novalattasya.my.id"
+defaultContentLanguage = "id"
+languageCode = "id"
+# title = ""
+theme = "dream"
+
+[services]
+[services.googleAnalytics]
+  id = 'G-1VP0GCHC8M'
+
+[params]
+# zenMode = true
+
+lightTheme = "emerald"
+darkTheme = "forest"
+
+# backgroundImage = "img/global-background.jpg"
+# backgroundImageDark = ""
+
+author = "NovalAttasya"
+description = "Tech Enthusiast"
+avatar = "https://i.ibb.co.com/hRph3khC/485119595-1400565354444899-3278293475323392218-n.jpg"
+headerTitle = "NovalAttasya"
+motto = "Become a better person"
+
+footerBottomText = "🌱 Made with ❤ by Nopal."
+
+# rss = true
+
+# utterancesRepo = ""
+
+# valine = true
+# LEANCLOUD_APP_ID = ""
+# LEANCLOUD_APP_KEY = ""
+
+# waline = true
+# walineServer = ""
+
+# email = ""
+
+siteStartYear = 2025
+
+# favicon = "favicon.ico"
+
+# Syntax highlighting
+# customSyntaxHighlighting = true
+
+# options
+# stickyNav = true
+# reorderNavItems = ["about", "search", "rss", "posts", "categories", "tags"]
+# collapseNavItems = ["posts", "categories", "tags"]
+# noDefaultSummaryCover = true
+# showTableOfContents = true
+# showSummaryCoverInPost = true
+# imageZoomableInPost = true
+# showPrevNextPost = true
+# reorderShares = ["x", "facebook", "whatsapp"]
+
+# [params.navItems]
+
+# [params.twikoo]
+# enabled = true
+# envID = ""
+# region = ""
+# lang = ""
+
+# [params.advanced]
+# customCSS = ["css/custom.css"]
+# customJS = []
+
+# [params.experimental]
+# jsDate = true
+# jsDateFormat = "yyyy年MM月dd日"
