@@ -36,7 +36,7 @@ footerBottomText = "🌱 Made with ❤ by Nopal."
 # waline = true
 # walineServer = ""
 
-# email = ""
+email = "1nopal@proton.me"
 
 siteStartYear = 2025
 
@@ -47,7 +47,7 @@ siteStartYear = 2025
 
 # options
 # stickyNav = true
-# reorderNavItems = ["about", "search", "rss", "posts", "categories", "tags"]
+reorderNavItems = ["about", "search", "rss", "posts", "categories", "tags"]
 # collapseNavItems = ["posts", "categories", "tags"]
 # noDefaultSummaryCover = true
 # showTableOfContents = true
