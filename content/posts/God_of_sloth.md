@@ -42,24 +42,19 @@ Tataplah kembali ke dalam dirimu sekarang. Bayangan itu masih di sana. Apa langk
 ```mermaid
 graph TD
     subgraph "Masalah: Kemalasan (Di Bawah Tatapan Aergia)"
-        direction TB -- Text inside subgraph block ignored. Direction set on subgraph line. -->
-
-        A[Akar Penyebab <br/> - Insting Hemat Energi <br/> - Takut Gagal/Dihakimi <br/> - Rasa Kewalahan <br/> - Kurang Motivasi/Tujuan <br/> - Kebiasaan] --> B((<strong>KEMALASAN KRONIS</strong> <br/> <i>Personifikasi: Aergia</i>));
-
-        B --> C{Manifestasi / Gejala <br/> - Prokrastinasi <br/> - Penghindaran Tugas <br/> - Kelesuan & Kelambanan <br/> - Perfeksionisme Pasif <br/> - Sikap Acuh};
-
-        B --> D[Konsekuensi Negatif <br/> - Potensi Terkubur <br/> - Peluang Hilang <br/> - Produktivitas Hancur <br/> - Kesehatan Terabaikan <br/> - Hubungan Merenggang <br/> - Penyesalan];
+        A["Akar Penyebab <br/> - Insting Hemat Energi <br/> - Takut Gagal/Dihakimi <br/> - Rasa Kewalahan <br/> - Kurang Motivasi/Tujuan <br/> - Kebiasaan"] --> B(("<strong>KEMALASAN KRONIS</strong> <br/> <i>Personifikasi: Aergia</i>"));
+        B --> C{"Manifestasi / Gejala <br/> - Prokrastinasi <br/> - Penghindaran Tugas <br/> - Kelesuan & Kelambanan <br/> - Perfeksionisme Pasif <br/> - Sikap Acuh"};
+        B --> D["Konsekuensi Negatif <br/> - Potensi Terkubur <br/> - Peluang Hilang <br/> - Produktivitas Hancur <br/> - Kesehatan Terabaikan <br/> - Hubungan Merenggang <br/> - Penyesalan"];
     end
 
     subgraph "Solusi: Perlawanan Terhadap Aergia"
-        direction TB -- Text inside subgraph block ignored. Direction set on subgraph line. -->
-        E[Strategi & Tindakan <br/> ('Percikan Api') <br/> - Kesadaran Diri <br/> - Pecah Tugas (Langkah Kecil) <br/> - Temukan 'Mengapa' (Motivasi) <br/> - Bangun Rutinitas <br/> - Istirahat Sadar & Cukup <br/> - Komunitas/Akuntabilitas <br/> - Terima & Bangkit Lagi] --> F((Hasil yang Diinginkan <br/> - Pengelolaan Diri <br/> - Produktivitas <br/> - Pencapaian Potensi <br/> - Kesejahteraan));
+        E["Strategi & Tindakan <br/> ('Percikan Api') <br/> - Kesadaran Diri <br/> - Pecah Tugas (Langkah Kecil) <br/> - Temukan 'Mengapa' (Motivasi) <br/> - Bangun Rutinitas <br/> - Istirahat Sadar & Cukup <br/> - Komunitas/Akuntabilitas <br/> - Terima & Bangkit Lagi"] --> F(("Hasil yang Diinginkan <br/> - Pengelolaan Diri <br/> - Produktivitas <br/> - Pencapaian Potensi <br/> - Kesejahteraan"));
     end
 
     %% Menunjukkan bahwa Solusi melawan/mengatasi Masalah Inti
     E -.->|Melawan / Mengatasi| B;
 
-    %% Styling (Optional)
+    %% Styling (Optional - bisa dihapus jika masih menyebabkan error)
     style B fill:#ffcccc,stroke:#cc0000,stroke-width:2px;
     style D fill:#ffe6e6,stroke:#cc0000,stroke-width:1px;
     style C fill:#ffe6e6,stroke:#cc0000,stroke-width:1px;
