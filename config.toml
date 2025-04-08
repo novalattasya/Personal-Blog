@@ -74,7 +74,7 @@ reorderNavItems = ["about", "search", "rss", "posts", "categories", "tags"]
 
 [services]
 [services.disqus]
-shortname = "https://novalattasya.disqus.com/admin/"
+shortname = "novalattasya"
 
 [markup]
 [markup.goldmark.parser.attribute]
